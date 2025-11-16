@@ -10,7 +10,7 @@ HEU_KMS_Activator是一款可以帮助用户激活Windows和Office的工具
 一、数字激活
 1.打开软件，以管理员身份运行
 2.选择“数字激活”
-<img width="430" height="289" alt="Image" src="https://github.com/user-attachments/assets/0733dbc1-884d-4aeb-9728-4e81fda1e37f" />
+<img width="430" height="289" alt="Image" src="https://github.com/user-attachments/assets/3ed3beae-d111-40cf-b061-86b58d5e9c39" />
 3.点击“数字许可证激活”下方的“开始”按钮
 <img width="430" height="289" alt="Image" src="https://github.com/user-attachments/assets/7c132aa9-801e-4fb4-8f96-7881dc28b634" />
 4.看到弹窗提示就证明成功激活了
